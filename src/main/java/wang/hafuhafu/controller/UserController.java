@@ -47,11 +47,10 @@ public class UserController {
         list.add("item1");
         list.add("item2");
         list.add("item3");
-        String param = a;
 
         modelAndView.addObject("list",list);
         modelAndView.addObject("user",user);
-        modelAndView.addObject("param",param);
+        modelAndView.addObject("param",a);
         modelAndView.setViewName("freemarker");
         return modelAndView;
     }
