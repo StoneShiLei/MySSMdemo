@@ -1,0 +1,16 @@
+# Created by .ignore support plugin (hsz.mobi)
+/.gitignore
+.DS_Store
+.gitignore
+.idea/dataSources.local.xml
+.idea/vcs.xml
+.idea/workspace.xml
+src/.DS_Store
+src/main/.DS_Store
+src/main/java/.DS_Store
+src/main/resources/.DS_Store
+src/main/webapp/.DS_Store
+target/
+!/.idea/vcs.xml
+/.idea/
+!/.gitignore

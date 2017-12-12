@@ -1,3 +1,3 @@
 # SSMdemo
 
-Just a SSM demo
+Spring mvc 模板
